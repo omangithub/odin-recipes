@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    font-size: 80px;
+    background-color: red;
+}
+
+.rpic {
+    display: block;
+    border: dotted black 5px;
+    height: 200px;
+    width: auto;
+    border-radius: 25px;
+    margin: auto;
+}
+
+h2, h3 {
+    font-size: 50px;
+    padding: 5px;
+}
